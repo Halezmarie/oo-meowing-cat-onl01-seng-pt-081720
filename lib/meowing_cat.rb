@@ -1,4 +1,4 @@
-
+class Cat
 
 def maru = Cat.new
 maru.name = "Maru"
