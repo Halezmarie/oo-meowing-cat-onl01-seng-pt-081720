@@ -1,3 +1,5 @@
+
+
 def maru = Cat.new
 maru.name = "Maru"
 
